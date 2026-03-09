@@ -11,35 +11,48 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Applied Mathematics, Harbin Instituteof Technology, 2010
+* B.S. in Mathematics and Applied Mathematics, Harbin Normal University, 2007
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2025: Information 
+  * NanKai University
+  * Duties includes: Project Managment
   
+
+* 2017: Teacher
+  * Nankai University Binhai College
+  * Duties included: Teaching 
+  * Supervisor: Associate Professor
+    
+
+* 2014: Research Assistant
+  * TianJin University 
+  * Duties included: Full-time Researcher
+  * Supervisor: Engineer
+
+
+* 2011: IT Stuff
+  * Tianjin TOEC Group Co., Ltd
+  * Duties included: Full-time Researcher
+  * Supervisor: Engineer
+
+
+* 2010: IT Stuff
+  * BAK Cell International Tianjin Co., Ltd.
+  * Duties included: Full-time Researcher
+  * Supervisor: Engineer
+    
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching
+* Program Language
+  * C/C++
+  * Shell
+  * Matlab
+  * Python
+
 
 Publications
 ======
