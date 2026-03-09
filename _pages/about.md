@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "‌Personal Introduction"
+title: "‌Welcome to visite for Lingjun Kong Website"
 author_profile: true
 redirect_from: 
   - /about/
