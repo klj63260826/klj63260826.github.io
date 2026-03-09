@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Lingjun Kong / Site Title"
 title_separator          : "-"
 name                     : &name "Lingjun Kong"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lingjun Kong 孔玲军 "
-  pronouns         : "his"  
+  pronouns         : ""  
   bio              : ""
   location         : "Tianjin in China"
   employer         : "NanKai University"
