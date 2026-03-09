@@ -12,7 +12,7 @@ redirect_from:
 Personal Introduction
 ======
 
-Name‌: Lingjun Kong 孔玲军  
+Name‌: Lingjun Kong 
 
 ‌Gender‌: Male
 
