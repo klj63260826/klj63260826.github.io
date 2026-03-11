@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2024
 venue: 'Conference 1'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://klj63260826.github.io/files/paper1.pdf'
+paperurl: 'https://klj63260826.github.io/files/2023paper.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Lingjun Kong. (2024). &quot;Improving the training and application of Chinese language models for Low-order grammar Number 1.&quot; <i>Conference 1</i>. 1(1).'
 ---
